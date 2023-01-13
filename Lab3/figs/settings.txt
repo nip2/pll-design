@@ -1,0 +1,5 @@
+20th may 2022
+
+FG: 24.040000 MHz, 200mV
+PS: VCXO power: 5V, ADE-1 pot: 5V
+
